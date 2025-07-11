@@ -18,7 +18,7 @@ button:hover{
     background-color: hsl(210, 100%, 60%);
 }
 button:active{
-    background-color: hsl(210, 100%, 70%);
+    background-color: hsl(210, 100%, 75%);
 }
 input{
     font-size: 2rem;

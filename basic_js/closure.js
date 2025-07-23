@@ -50,6 +50,8 @@ function createCounter(){
     return {increment, getCount};
 }
 
+const counter = createCounter();
+
 counter.increment();
 counter.increment();
 
